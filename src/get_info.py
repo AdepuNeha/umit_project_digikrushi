@@ -59,7 +59,7 @@ state_code_dict = {
 }
 
 params_dict = {
-    "API_Key": os.getenv("API_KEY_NDPI"),
+    "API_Key": "76rFm9iW5iYKtPYiWDHJZi1BCWQhB2CL3hJ9u60FBWUWBF9RiBRUjPU2pH5oFozs7BHkqU01I0mKW4rtmYO",
     "dim": "Country,StateName,StateCode,DistrictName,DistrictCode,Year,D6820_2,D6820_5",
     "ind": "I6820_6,I6820_7,I6820_8",
     "pageno": 1,
